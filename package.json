@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./dist"
+  },
+  "author": "Ekansh Agarwal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.0",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1",
+    "fractional": "^1.0.0",
+    "r": "^0.0.5",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
