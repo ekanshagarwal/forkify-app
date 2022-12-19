@@ -133,7 +133,7 @@ const controlAddRecipe = async function(newRecipe){
 }
 
 const newFeature = function(){
-  console.log('Welcome to the application!');
+  console.log('Welcome to the application!Recipe application with custom recipe uploads.');
 }
 
 const init = function(){
